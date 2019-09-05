@@ -35,7 +35,7 @@ img {
   top: 220px;
 }
 
-#wheelbarrow-foreground {
+#shadow {
   pointer-events: none;
   position: absolute;
   background: url(../images/shadow.png) no-repeat;
