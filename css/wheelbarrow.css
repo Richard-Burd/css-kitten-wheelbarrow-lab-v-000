@@ -27,6 +27,7 @@ img {
   z-index: 0;
   top: 220px;
 }
+
 #wheelbarrow-foreground {
   pointer-events: none;
   position: absolute;
@@ -35,6 +36,9 @@ img {
   top: 220px;
 }
 
+#shadow {
+
+}
 #basket, #ball {
   display: inline;
 }
