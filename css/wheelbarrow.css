@@ -37,7 +37,7 @@ img {
 }
 
 #shadow {
-
+z-index: 11;
 }
 
 #basket, #ball {
